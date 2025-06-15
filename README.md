@@ -3,7 +3,7 @@
 This project showcase different ways to build agent using many ai agent frameworks.
 
 # framewors
-Open AI plain
+Native API 
 Open AI Agent SDK
 Crew AI
 Langraph
