@@ -8,6 +8,7 @@ Open AI Agent SDK
 Crew AI
 Langraph
 Autogen
+gradio
 MCP
 gRPC
 asyncio
